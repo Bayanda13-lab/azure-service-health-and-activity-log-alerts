@@ -288,18 +288,7 @@ Possible improvements for a production environment include:
 - Add additional Activity Log alerts.
 - Implement escalation procedures for critical incidents.
 
----
 
-# 📁 Repository Structure
-
-```text
-azure-service-health-activity-log-alerts/
-│
-├── README.md
-│
-└── docs/
-    └── images/
-        └── service-health-alert-rule.png
 ```
 
 ---
