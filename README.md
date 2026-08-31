@@ -67,7 +67,8 @@ The main objectives of this project were to:
 
 The following screenshot shows the configuration of the Azure Service Health alert rule.
 
-![Create Service Health Alert Rule](docs/images/service-health-alert-rule.png)
+![Create Service Health Alert Rule](<img width="1600" height="900" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/69112a44-179a-4ed4-89cd-e9d7d68ca0e6" />
+)
 
 ### Configuration shown in the screenshot
 
